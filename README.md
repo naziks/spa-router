@@ -1,5 +1,5 @@
 # nRouter
-### Lightweight page router for single page applications
+### Lightweight page hash router for single page applications
 
 ## Install  
 Using local file:
