@@ -24,7 +24,7 @@ router
 ```
 
 ### Routes
-There is two types of routes:  
+There are two types of routes:  
 
 __Static__ - /home  
 __Dynamic__ - /page/:id
